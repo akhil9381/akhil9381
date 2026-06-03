@@ -42,4 +42,5 @@ I'm currently working on Web Development and Full-Stack Projects<br>I'm looking 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/akhil9381?theme=dark&font=Nunito&ext=heatmap" />
 </p>
+![](https://komarev.com/ghpvc/?username=akhil9381&label=Profile+Views&color=blueviolet&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
