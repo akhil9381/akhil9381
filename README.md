@@ -11,5 +11,35 @@ I'm currently working on Web Development and Full-Stack Projects<br>I'm looking 
 ![](https://github-readme-stats.shion.dev/api?username=akhil9381&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=akhil9381&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 Coding Profiles
 
+<p align="left">
+<a href="https://leetcode.com/u/akhil9381/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/akhil9381" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/akhil9381/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/akhil9381" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/akhil9381" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📈 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/akhil9381?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
